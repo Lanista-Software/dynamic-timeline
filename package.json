@@ -1,6 +1,6 @@
 {
   "name": "dynamic-timeline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "package/default/index.js",
   "types": "package",
