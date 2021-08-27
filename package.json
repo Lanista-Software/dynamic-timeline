@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-timeline",
+  "version": "0.0.1",
+  "description": "",
+  "main": "package/default/index.js",
+  "types": "package",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
